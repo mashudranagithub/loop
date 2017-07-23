@@ -4,7 +4,7 @@
 
 ?>
 
-    <h>For loop Practice.</h>
+    <h1>For loop Practice.</h1>
     <br/>
 
 
